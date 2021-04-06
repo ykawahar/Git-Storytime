@@ -1,3 +1,3 @@
 A man walks into a bar. 
 **Ouch**, that really hurt. 
-He walks around the bar and carries on with his day.
+He sits down at the counter and orders a drink, glancing inquisitively to the other patrons.
