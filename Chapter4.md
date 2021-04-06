@@ -1,7 +1,8 @@
 # Git-Storytime
 Class Activity 4/6
 
-**Chapter 4: Armageddon**
+**Chapter 4:**
+#The Beginning
 
 The confused man walked outside of the bar, his mind yet pondering the weirdness he experienced.
 
