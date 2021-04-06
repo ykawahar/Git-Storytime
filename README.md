@@ -5,10 +5,10 @@ Description: A man walks into a bar.
 
 ##Chapters:
 
-1) The Beginning
+**1) The Beginning**
 
-2) Octopus
+**2) Octopus**
 
-3) The Wedding Vows
+**3) The Wedding Vows**
 
-4) Armageddon
+**4) Armageddon**
