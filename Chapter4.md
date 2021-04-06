@@ -1,6 +1,3 @@
-# Git-Storytime
-Class Activity 4/6
-
 **Chapter 4:**
 #The Beginning
 
