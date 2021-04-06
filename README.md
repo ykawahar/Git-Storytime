@@ -3,7 +3,7 @@ Class Activity 4/6
 
 Description: A man walks into a bar.
 
-##Chapters:
+## Chapters:
 
 **1) The Beginning**
 
